@@ -1,0 +1,1 @@
+The function returns the perimeter of an island
