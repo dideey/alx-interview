@@ -1,2 +1,2 @@
 # alx-interviewinterview
-This repo contains interview preparation projects
+This repo contains interview preparation projectss
